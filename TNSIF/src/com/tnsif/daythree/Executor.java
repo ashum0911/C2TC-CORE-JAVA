@@ -1,4 +1,4 @@
-package com.tnsif.daytwo;
+package com.tnsif.daythree;
 
 import java.util.Scanner; // Import statement for Scanner class
 
